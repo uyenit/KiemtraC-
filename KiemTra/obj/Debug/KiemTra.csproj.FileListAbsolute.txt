@@ -1,0 +1,36 @@
+E:\.Net Frame\Baitap\KiemTra\KiemTra\bin\Debug\KiemTra.exe.config
+E:\.Net Frame\Baitap\KiemTra\KiemTra\bin\Debug\KiemTra.exe
+E:\.Net Frame\Baitap\KiemTra\KiemTra\bin\Debug\KiemTra.pdb
+E:\.Net Frame\Baitap\KiemTra\KiemTra\obj\Debug\KiemTra.csprojAssemblyReference.cache
+E:\.Net Frame\Baitap\KiemTra\KiemTra\obj\Debug\KiemTra.Form1.resources
+E:\.Net Frame\Baitap\KiemTra\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+E:\.Net Frame\Baitap\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+E:\.Net Frame\Baitap\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+E:\.Net Frame\Baitap\KiemTra\KiemTra\obj\Debug\KiemTra.exe
+E:\.Net Frame\Baitap\KiemTra\KiemTra\obj\Debug\KiemTra.pdb
+E:\.Net Frame\Baitap\KiemTra\KiemTra\bin\Debug\Data\NhomDanhBa.data
+E:\.Net Frame\Baitap\KiemTra\KiemTra\bin\Debug\Data\ChiTietDanhBa.data
+D:\C#\Ki-m-Tra-1\KiemTra\bin\Debug\Data\ChiTietDanhBa.data
+D:\C#\Ki-m-Tra-1\KiemTra\bin\Debug\Data\NhomDanhBa.data
+D:\C#\Ki-m-Tra-1\KiemTra\bin\Debug\KiemTra.exe.config
+D:\C#\Ki-m-Tra-1\KiemTra\bin\Debug\KiemTra.exe
+D:\C#\Ki-m-Tra-1\KiemTra\bin\Debug\KiemTra.pdb
+D:\C#\Ki-m-Tra-1\KiemTra\obj\Debug\KiemTra.csprojAssemblyReference.cache
+D:\C#\Ki-m-Tra-1\KiemTra\obj\Debug\KiemTra.Form1.resources
+D:\C#\Ki-m-Tra-1\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+D:\C#\Ki-m-Tra-1\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+D:\C#\Ki-m-Tra-1\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+D:\C#\Ki-m-Tra-1\KiemTra\obj\Debug\KiemTra.exe
+D:\C#\Ki-m-Tra-1\KiemTra\obj\Debug\KiemTra.pdb
+D:\C#\Kiemtra\KiemTra\bin\Debug\Data\ChiTietDanhBa.data
+D:\C#\Kiemtra\KiemTra\bin\Debug\Data\NhomDanhBa.data
+D:\C#\Kiemtra\KiemTra\bin\Debug\KiemTra.exe.config
+D:\C#\Kiemtra\KiemTra\bin\Debug\KiemTra.exe
+D:\C#\Kiemtra\KiemTra\bin\Debug\KiemTra.pdb
+D:\C#\Kiemtra\KiemTra\obj\Debug\KiemTra.csprojAssemblyReference.cache
+D:\C#\Kiemtra\KiemTra\obj\Debug\KiemTra.Form1.resources
+D:\C#\Kiemtra\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+D:\C#\Kiemtra\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+D:\C#\Kiemtra\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+D:\C#\Kiemtra\KiemTra\obj\Debug\KiemTra.exe
+D:\C#\Kiemtra\KiemTra\obj\Debug\KiemTra.pdb
